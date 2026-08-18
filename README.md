@@ -17,6 +17,7 @@ Desenvolver habilidades práticas em:
   . Listas, dicionários, tuplas
   . Operadores lógicos
   . For e While
+  . Functions
 
 - projects/
  - Projetos utilizando python
