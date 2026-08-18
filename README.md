@@ -1,6 +1,23 @@
-## Python
+# Python | Data & AI Journey
 
-# Do zero á Engenharia de Data + IA
+Repositório dedicado à evolução em Python com foco em Engenharia de Dados e Inteligência Artificial.
 
-### Criei esse repositório para estudar do zero Python, vem me acompanhar nessa aventura!
+## 📌 Objetivo
+Desenvolver habilidades práticas em:
+- Python
+- Manipulação de dados
+- Integração com APIs
+- Automação
+- Fundamentos de IA
 
+## 📂 Estrutura
+- basics/ 
+ - Básico de python para relembrar :
+  . Manipulação de strings
+  . Listas, dicionários, tuplas
+  . Operadores lógicos
+  . For e While
+
+- projects/
+ - Projetos utilizando python
+  . Integração com API
